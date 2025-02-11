@@ -27,7 +27,7 @@ fn main() {
     println!("This exercise compiles successfully. The remaining exercises contain a compiler");
     println!("or logic error. The central concept behind Rustlings is to fix these errors and");
     println!("solve the exercises. Good luck!");
-    println!();
+    println!("");
     println!("The source for this exercise is in `exercises/intro/intro1.rs`. Have a look!");
     println!(
         "Going forward, the source of the exercises will always be in the success/failure output."
